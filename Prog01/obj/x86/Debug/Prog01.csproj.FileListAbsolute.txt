@@ -1,0 +1,6 @@
+/Users/aluno/Projects/Prog01/Prog01/bin/Debug/Prog01.exe
+/Users/aluno/Projects/Prog01/Prog01/bin/Debug/Prog01.pdb
+/Users/aluno/Projects/Prog01/Prog01/obj/x86/Debug/Prog01.csprojAssemblyReference.cache
+/Users/aluno/Projects/Prog01/Prog01/obj/x86/Debug/Prog01.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Prog01/Prog01/obj/x86/Debug/Prog01.exe
+/Users/aluno/Projects/Prog01/Prog01/obj/x86/Debug/Prog01.pdb
